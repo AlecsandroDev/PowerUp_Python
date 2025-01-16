@@ -17,7 +17,8 @@ ou um envio de relatório, que possui uma alta frequência, o que poderia otimiz
 
 O projeto acompanha um arquivo **requirements.txt**, que pode ser instalado executando o comandos: 
 
-    "**pip install -r requirements.txt**".
+    pip install -r requirements.txt
+    
 <hr>
 
 Uma recomendação seria acessar a documentação do Pyautogui, pois nela será possível entender, além de customizar o projeto
